@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-core
+langchain-community
+python-dotenv
+langchain-openai
+langchain-groq
+langchain-google-genai
+google-generativeai
+bs4
+faiss-cpu
+duckduckgo-search
